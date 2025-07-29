@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **javascirpt**
 
-- 📝 My Portfolio [https://samrza.github.io/samblog]([https://samblogg.medium.com/](https://samrza.github.io/samblog)
+- 📝 My Portfolio [https://samrza.github.io/samblog](https://samrza.github.io/samblog)
 
 - 📫 How to reach me **sameer4uofficial@gmail.com**
 
