@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on complex webapp.
 
-- 🌱 I’m currently learning **javascirpt**
+- 🌱 I’m currently learning **NextJs**
 
 - 📝 My Portfolio [https://samrza.github.io/samblog](https://samrza.github.io/samblog)
 
