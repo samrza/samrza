@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/samrza_" target="blank"><img src="https://img.shields.io/twitter/follow/samrza_?logo=twitter&style=for-the-badge" alt="samrza_" /></a> </p>
 
-- 🔭 developing things i struggle with  .
+- 🔭 developing solution i struggle with  .
 
 - 🌱 I’m currently learning **NextJs**
 
